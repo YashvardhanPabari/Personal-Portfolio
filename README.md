@@ -5,4 +5,4 @@ I am a passionate web developer with a focus on front-end technologies. With a s
 ## Projects
 
 ### Project 1: Portfolio Website
-![Portfolio Website](screenshots)
+![Portfolio Website]
