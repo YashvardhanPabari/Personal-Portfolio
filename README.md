@@ -6,3 +6,4 @@ I am a passionate web developer with a focus on front-end technologies. With a s
 
 ### Project 1: Portfolio Website
 ![Portfolio Website]
+![Home page](https://github.com/YashvardhanPabari/Personal-Portfolio/assets/90385778/9bf2231f-3501-413b-9a3c-c47a1849c6c0)
