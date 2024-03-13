@@ -1,0 +1,23 @@
+.blog{
+   width: 90vw;
+}
+.blogContainer {
+    margin: 50px 50px;
+}
+.blogContainer h1{
+    margin: 40px 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.blogItem h2{
+    font-family: 'Fira Sans', sans-serif;
+}
+.blogItem{
+    margin: 20px 30px;
+    font-family: 'Source Code Pro', monospace;
+}
+    .btnm{
+        margin-top: 10px;
+        font-size: 12px;
+        padding: 5px 8px;
+    }

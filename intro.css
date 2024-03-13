@@ -1,0 +1,75 @@
+.intro{
+    margin: 60px 50px;
+}
+
+.main h1{
+    font-family: 'Fira Sans', sans-serif; 
+    margin: 50px 25px 25px 25px;
+}
+.main h2{
+    font-family: 'Fira Sans', sans-serif; 
+    margin: 25px;
+}
+
+.main p{
+    margin: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.skillItem{
+    display: flex;
+    align-items: center;
+    margin: 5px 25px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 600;
+}
+
+.seventy{
+    border: 2px solid black;
+    margin-left: 5px;
+    width: 700px ;
+    height: 10px;
+    background-color: aqua;
+}
+.sixty{
+    border: 2px solid black;
+    margin-left: 5px;
+    height: 10px;
+    width: 600px ;
+    background-color: rgb(176, 83, 69);
+}
+.thirty{
+    border: 2px solid black;
+    margin-left: 5px;
+    height: 10px;
+    width: 300px ;
+    background-color: rgb(15, 221, 53);
+}
+.zero{
+    border: 2px solid black;
+    margin-left: 5px;
+    height: 10px;
+    width: 5px ;
+    background-color: rgb(209, 19, 48);
+}
+
+/* @media (max-width: 1615px){
+   
+    .intro {
+        margin: 60px 0px;
+        margin-left: 30px;
+    }
+    .intro p{
+        margin: 0px;
+    }
+    .main h1 {
+        margin: 50px 25px 25px 2px;
+    }
+    .main h2 {
+        margin: 25px 0px;
+    }
+    .skillItem {
+        margin: 5px 0px;
+    }
+    } */
+  
